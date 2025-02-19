@@ -13,7 +13,7 @@ const Screen = () => {
           className=""
         />
         <LoadImage
-          src="/assets/logo2.png"
+          src="/assets/logo2.png" 
           alt="logo"
           height={200}
           width={200}
